@@ -1,0 +1,13 @@
+var myName="Chiamaka Josephine Atasie";
+var myCourseArray=[];
+myCourseArray[0]='html';
+myCourseArray[1]='css';
+myCourseArray[2]='javascript';
+console.log(myName);
+console.log(myCourseArray);
+
+for (var i = 0; i <=200; i++) {
+ if (i%2!==0) {
+   console.log(i);
+ }
+}
